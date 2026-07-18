@@ -8,7 +8,9 @@ updates:
   - package-ecosystem: npm 
     directory: "/" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "cron"
+      cronjob: "30 14 * * *"
+      timezone: "America/Vancouver"
     open-pull-requests-limit: 100
     cooldown:
       # Default cooldown for any dependency without a more specific SemVer-level rule below (falls back to 3 days if you omit this entirely).
@@ -19,7 +21,9 @@ updates:
   - package-ecosystem: github-actions
     directory: "/" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "cron"
+      cronjob: "30 14 * * *"
+      timezone: "America/Vancouver"
     open-pull-requests-limit: 100    
     cooldown:
       # Default cooldown for any dependency without a more specific SemVer-level rule below (falls back to 3 days if you omit this entirely).
