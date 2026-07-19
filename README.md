@@ -1,6 +1,7 @@
 [![NPM Version](http://img.shields.io/npm/v/get-google-suggestions.svg?style=flat)](https://www.npmjs.org/package/get-google-suggestions)
 [![NPM Downloads](https://img.shields.io/npm/dm/get-google-suggestions.svg?style=flat)](https://npmcharts.com/compare/get-google-suggestions?minimal=true)
 [![Issues](https://img.shields.io/github/issues/yuvraj108c/get-google-suggestions)](https://github.com/yuvraj108c/get-google-suggestions/issues)
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://app.codspeed.io/BenRogersWPG/google-suggestions-benrogerswpg?utm_source=badge)
 
 # Get Google Suggestions
 
