@@ -102,7 +102,7 @@
   resolved "https://registry.yarnpkg.com/@size-limit/file/-/file-14.1.0.tgz#2da5d8d0a075dd09ee919e787d1b71e192814b05"
   integrity sha512-mR0uVxzdzV31pk8Iz795dDXxhHsrv9RSsyjeCVboUr1Q2+2KL/GpjeMZ44ydFqI2JfXZ22dOsbY28yPeOse1Nw==
 
-"@size-limit/preset-small-lib@^14.0.1":
+"@size-limit/preset-small-lib@^14.1.0":
   version "14.1.0"
   resolved "https://registry.yarnpkg.com/@size-limit/preset-small-lib/-/preset-small-lib-14.1.0.tgz#7606ba81faa0ceb39fc39631072a91164aa6c11c"
   integrity sha512-WK3Qvk0TnnLdQsJcA1V+Ci58RSM3iRGV+axML1QQcF4ZpdrDTFVttrBiMgYRc+ay/skpxPI1D7QZbM+Jv1C05w==
